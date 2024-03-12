@@ -1,0 +1,10 @@
+D:\user\Documents\Desarrollo C#\estacionamiento\bin\Debug\estacionamiento.exe.config
+D:\user\Documents\Desarrollo C#\estacionamiento\bin\Debug\estacionamiento.exe
+D:\user\Documents\Desarrollo C#\estacionamiento\bin\Debug\estacionamiento.pdb
+D:\user\Documents\Desarrollo C#\estacionamiento\obj\Debug\estacionamiento.csproj.AssemblyReference.cache
+D:\user\Documents\Desarrollo C#\estacionamiento\obj\Debug\estacionamiento.Properties.Resources.resources
+D:\user\Documents\Desarrollo C#\estacionamiento\obj\Debug\estacionamiento.csproj.GenerateResource.cache
+D:\user\Documents\Desarrollo C#\estacionamiento\obj\Debug\estacionamiento.csproj.CoreCompileInputs.cache
+D:\user\Documents\Desarrollo C#\estacionamiento\obj\Debug\estacionamiento.exe
+D:\user\Documents\Desarrollo C#\estacionamiento\obj\Debug\estacionamiento.pdb
+D:\user\Documents\Desarrollo C#\estacionamiento\obj\Debug\estacionamiento.frmEstacionamiento.resources

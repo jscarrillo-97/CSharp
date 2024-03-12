@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\sebasP4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DCCDFE6-FBF2-4F10-97A7-0032A9629A0B}|sebasP4.csproj|e:\\c#\\sebasp4\\frmpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DCCDFE6-FBF2-4F10-97A7-0032A9629A0B}|sebasP4.csproj|solutionrelative:frmpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DCCDFE6-FBF2-4F10-97A7-0032A9629A0B}|sebasP4.csproj|e:\\c#\\sebasp4\\frmpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2DCCDFE6-FBF2-4F10-97A7-0032A9629A0B}|sebasP4.csproj|solutionrelative:frmpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DCCDFE6-FBF2-4F10-97A7-0032A9629A0B}|sebasP4.csproj|e:\\c#\\sebasp4\\frmpago.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DCCDFE6-FBF2-4F10-97A7-0032A9629A0B}|sebasP4.csproj|solutionrelative:frmpago.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmPago.Designer.cs",
+              "DocumentMoniker": "E:\\C#\\sebasP4\\frmPago.Designer.cs",
+              "RelativeDocumentMoniker": "frmPago.Designer.cs",
+              "ToolTip": "E:\\C#\\sebasP4\\frmPago.Designer.cs",
+              "RelativeToolTip": "frmPago.Designer.cs",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAewNgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T16:40:52.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPago.cs",
+              "DocumentMoniker": "E:\\C#\\sebasP4\\frmPago.cs",
+              "RelativeDocumentMoniker": "frmPago.cs",
+              "ToolTip": "E:\\C#\\sebasP4\\frmPago.cs",
+              "RelativeToolTip": "frmPago.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAjwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T16:08:19.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPago.cs [Design]",
+              "DocumentMoniker": "E:\\C#\\sebasP4\\frmPago.cs",
+              "RelativeDocumentMoniker": "frmPago.cs",
+              "ToolTip": "E:\\C#\\sebasP4\\frmPago.cs [Design]",
+              "RelativeToolTip": "frmPago.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T16:08:20.036Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

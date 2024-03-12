@@ -1,0 +1,31 @@
+D:\Proyectos C#\sebas2\sebas2\bin\Debug\sebas2.exe.config
+D:\Proyectos C#\sebas2\sebas2\bin\Debug\sebas2.exe
+D:\Proyectos C#\sebas2\sebas2\bin\Debug\sebas2.pdb
+D:\Proyectos C#\sebas2\sebas2\obj\Debug\sebas2.csproj.AssemblyReference.cache
+D:\Proyectos C#\sebas2\sebas2\obj\Debug\sebas2.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos C#\sebas2\sebas2\obj\Debug\sebas2.Form1.resources
+D:\Proyectos C#\sebas2\sebas2\obj\Debug\sebas2.Properties.Resources.resources
+D:\Proyectos C#\sebas2\sebas2\obj\Debug\sebas2.csproj.GenerateResource.cache
+D:\Proyectos C#\sebas2\sebas2\obj\Debug\sebas2.csproj.CoreCompileInputs.cache
+D:\Proyectos C#\sebas2\sebas2\obj\Debug\sebas2.exe
+D:\Proyectos C#\sebas2\sebas2\obj\Debug\sebas2.pdb
+E:\C#\sebas2\sebas2\sebas2\bin\Debug\sebas2.exe.config
+E:\C#\sebas2\sebas2\sebas2\bin\Debug\sebas2.exe
+E:\C#\sebas2\sebas2\sebas2\bin\Debug\sebas2.pdb
+E:\C#\sebas2\sebas2\sebas2\obj\Debug\sebas2.csproj.AssemblyReference.cache
+E:\C#\sebas2\sebas2\sebas2\obj\Debug\sebas2.Form1.resources
+E:\C#\sebas2\sebas2\sebas2\obj\Debug\sebas2.Properties.Resources.resources
+E:\C#\sebas2\sebas2\sebas2\obj\Debug\sebas2.csproj.GenerateResource.cache
+E:\C#\sebas2\sebas2\sebas2\obj\Debug\sebas2.csproj.CoreCompileInputs.cache
+E:\C#\sebas2\sebas2\sebas2\obj\Debug\sebas2.exe
+E:\C#\sebas2\sebas2\sebas2\obj\Debug\sebas2.pdb
+D:\user\Documents\Desarrollo C#\control_medidas\sebas2\bin\Debug\sebas2.exe.config
+D:\user\Documents\Desarrollo C#\control_medidas\sebas2\bin\Debug\sebas2.exe
+D:\user\Documents\Desarrollo C#\control_medidas\sebas2\bin\Debug\sebas2.pdb
+D:\user\Documents\Desarrollo C#\control_medidas\sebas2\obj\Debug\sebas2.csproj.AssemblyReference.cache
+D:\user\Documents\Desarrollo C#\control_medidas\sebas2\obj\Debug\sebas2.Form1.resources
+D:\user\Documents\Desarrollo C#\control_medidas\sebas2\obj\Debug\sebas2.Properties.Resources.resources
+D:\user\Documents\Desarrollo C#\control_medidas\sebas2\obj\Debug\sebas2.csproj.GenerateResource.cache
+D:\user\Documents\Desarrollo C#\control_medidas\sebas2\obj\Debug\sebas2.csproj.CoreCompileInputs.cache
+D:\user\Documents\Desarrollo C#\control_medidas\sebas2\obj\Debug\sebas2.exe
+D:\user\Documents\Desarrollo C#\control_medidas\sebas2\obj\Debug\sebas2.pdb

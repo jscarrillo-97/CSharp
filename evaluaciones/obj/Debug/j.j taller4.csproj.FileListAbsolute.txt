@@ -1,0 +1,31 @@
+D:\sebas c#\j.j taller4\bin\Debug\j.j taller4.exe.config
+D:\sebas c#\j.j taller4\bin\Debug\j.j taller4.exe
+D:\sebas c#\j.j taller4\bin\Debug\j.j taller4.pdb
+D:\sebas c#\j.j taller4\obj\Debug\j.j taller4.csproj.AssemblyReference.cache
+D:\sebas c#\j.j taller4\obj\Debug\j.j taller4.csproj.SuggestedBindingRedirects.cache
+D:\sebas c#\j.j taller4\obj\Debug\j.j_taller4.Form1.resources
+D:\sebas c#\j.j taller4\obj\Debug\j.j_taller4.Properties.Resources.resources
+D:\sebas c#\j.j taller4\obj\Debug\j.j taller4.csproj.GenerateResource.cache
+D:\sebas c#\j.j taller4\obj\Debug\j.j taller4.csproj.CoreCompileInputs.cache
+D:\sebas c#\j.j taller4\obj\Debug\j.j taller4.exe
+D:\sebas c#\j.j taller4\obj\Debug\j.j taller4.pdb
+D:\user\Downloads\sebas c#\sebas c#\j.j taller4\bin\Debug\j.j taller4.exe.config
+D:\user\Downloads\sebas c#\sebas c#\j.j taller4\bin\Debug\j.j taller4.exe
+D:\user\Downloads\sebas c#\sebas c#\j.j taller4\bin\Debug\j.j taller4.pdb
+D:\user\Downloads\sebas c#\sebas c#\j.j taller4\obj\Debug\j.j taller4.csproj.AssemblyReference.cache
+D:\user\Downloads\sebas c#\sebas c#\j.j taller4\obj\Debug\j.j_taller4.Form1.resources
+D:\user\Downloads\sebas c#\sebas c#\j.j taller4\obj\Debug\j.j_taller4.Properties.Resources.resources
+D:\user\Downloads\sebas c#\sebas c#\j.j taller4\obj\Debug\j.j taller4.csproj.GenerateResource.cache
+D:\user\Downloads\sebas c#\sebas c#\j.j taller4\obj\Debug\j.j taller4.csproj.CoreCompileInputs.cache
+D:\user\Downloads\sebas c#\sebas c#\j.j taller4\obj\Debug\j.j taller4.exe
+D:\user\Downloads\sebas c#\sebas c#\j.j taller4\obj\Debug\j.j taller4.pdb
+D:\user\Documents\Desarrollo C#\evaluaciones\bin\Debug\j.j taller4.exe.config
+D:\user\Documents\Desarrollo C#\evaluaciones\bin\Debug\j.j taller4.exe
+D:\user\Documents\Desarrollo C#\evaluaciones\bin\Debug\j.j taller4.pdb
+D:\user\Documents\Desarrollo C#\evaluaciones\obj\Debug\j.j taller4.csproj.AssemblyReference.cache
+D:\user\Documents\Desarrollo C#\evaluaciones\obj\Debug\j.j_taller4.Form1.resources
+D:\user\Documents\Desarrollo C#\evaluaciones\obj\Debug\j.j_taller4.Properties.Resources.resources
+D:\user\Documents\Desarrollo C#\evaluaciones\obj\Debug\j.j taller4.csproj.GenerateResource.cache
+D:\user\Documents\Desarrollo C#\evaluaciones\obj\Debug\j.j taller4.csproj.CoreCompileInputs.cache
+D:\user\Documents\Desarrollo C#\evaluaciones\obj\Debug\j.j taller4.exe
+D:\user\Documents\Desarrollo C#\evaluaciones\obj\Debug\j.j taller4.pdb

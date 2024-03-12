@@ -1,0 +1,10 @@
+D:\user\Documents\Desarrollo C#\evaluaciones\bin\Debug\j.j taller4.exe.config
+D:\user\Documents\Desarrollo C#\evaluaciones\bin\Debug\j.j taller4.exe
+D:\user\Documents\Desarrollo C#\evaluaciones\bin\Debug\j.j taller4.pdb
+D:\user\Documents\Desarrollo C#\evaluaciones\obj\Debug\frmEvaluacion.csproj.AssemblyReference.cache
+D:\user\Documents\Desarrollo C#\evaluaciones\obj\Debug\j.j_taller4.frmEvaluacion.resources
+D:\user\Documents\Desarrollo C#\evaluaciones\obj\Debug\j.j_taller4.Properties.Resources.resources
+D:\user\Documents\Desarrollo C#\evaluaciones\obj\Debug\frmEvaluacion.csproj.GenerateResource.cache
+D:\user\Documents\Desarrollo C#\evaluaciones\obj\Debug\frmEvaluacion.csproj.CoreCompileInputs.cache
+D:\user\Documents\Desarrollo C#\evaluaciones\obj\Debug\j.j taller4.exe
+D:\user\Documents\Desarrollo C#\evaluaciones\obj\Debug\j.j taller4.pdb

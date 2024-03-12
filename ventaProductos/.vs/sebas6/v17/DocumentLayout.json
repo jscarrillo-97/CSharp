@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\user\\Documents\\Desarrollo C#\\ventaProductos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE2E1DB-D3A1-475C-9D79-0D99A55E45E8}|sebas6.csproj|d:\\user\\documents\\desarrollo c#\\ventaproductos\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FE2E1DB-D3A1-475C-9D79-0D99A55E45E8}|sebas6.csproj|solutionrelative:frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE2E1DB-D3A1-475C-9D79-0D99A55E45E8}|sebas6.csproj|D:\\user\\Documents\\Desarrollo C#\\ventaProductos\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE2E1DB-D3A1-475C-9D79-0D99A55E45E8}|sebas6.csproj|solutionrelative:frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE2E1DB-D3A1-475C-9D79-0D99A55E45E8}|sebas6.csproj|D:\\user\\Documents\\Desarrollo C#\\ventaProductos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE2E1DB-D3A1-475C-9D79-0D99A55E45E8}|sebas6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE2E1DB-D3A1-475C-9D79-0D99A55E45E8}|sebas6.csproj|d:\\user\\documents\\desarrollo c#\\ventaproductos\\frmventa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE2E1DB-D3A1-475C-9D79-0D99A55E45E8}|sebas6.csproj|solutionrelative:frmventa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmVenta.Designer.cs",
+              "DocumentMoniker": "D:\\user\\Documents\\Desarrollo C#\\ventaProductos\\frmVenta.Designer.cs",
+              "RelativeDocumentMoniker": "frmVenta.Designer.cs",
+              "ToolTip": "D:\\user\\Documents\\Desarrollo C#\\ventaProductos\\frmVenta.Designer.cs",
+              "RelativeToolTip": "frmVenta.Designer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIA0wBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T23:35:45.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\user\\Documents\\Desarrollo C#\\ventaProductos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\user\\Documents\\Desarrollo C#\\ventaProductos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T16:56:06.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmVenta.cs",
+              "DocumentMoniker": "D:\\user\\Documents\\Desarrollo C#\\ventaProductos\\frmVenta.cs",
+              "RelativeDocumentMoniker": "frmVenta.cs",
+              "ToolTip": "D:\\user\\Documents\\Desarrollo C#\\ventaProductos\\frmVenta.cs",
+              "RelativeToolTip": "frmVenta.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T16:56:06.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmVenta.cs [Design]",
+              "DocumentMoniker": "D:\\user\\Documents\\Desarrollo C#\\ventaProductos\\frmVenta.cs",
+              "RelativeDocumentMoniker": "frmVenta.cs",
+              "ToolTip": "D:\\user\\Documents\\Desarrollo C#\\ventaProductos\\frmVenta.cs [Design]",
+              "RelativeToolTip": "frmVenta.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T16:56:06.316Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

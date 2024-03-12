@@ -1,0 +1,7 @@
+D:\user\Documents\Desarrollo C#\consolaNet\bin\Debug\consolaNet.exe.config
+D:\user\Documents\Desarrollo C#\consolaNet\bin\Debug\consolaNet.exe
+D:\user\Documents\Desarrollo C#\consolaNet\bin\Debug\consolaNet.pdb
+D:\user\Documents\Desarrollo C#\consolaNet\obj\Debug\consolaNet.csproj.AssemblyReference.cache
+D:\user\Documents\Desarrollo C#\consolaNet\obj\Debug\consolaNet.csproj.CoreCompileInputs.cache
+D:\user\Documents\Desarrollo C#\consolaNet\obj\Debug\consolaNet.exe
+D:\user\Documents\Desarrollo C#\consolaNet\obj\Debug\consolaNet.pdb

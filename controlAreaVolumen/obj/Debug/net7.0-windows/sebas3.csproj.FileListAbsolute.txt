@@ -1,0 +1,52 @@
+D:\Proyectos C#\sebas3\obj\Debug\net7.0-windows\sebas3.csproj.AssemblyReference.cache
+D:\Proyectos C#\sebas3\obj\Debug\net7.0-windows\sebas3.Form1.resources
+D:\Proyectos C#\sebas3\obj\Debug\net7.0-windows\sebas3.csproj.GenerateResource.cache
+D:\Proyectos C#\sebas3\obj\Debug\net7.0-windows\sebas3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos C#\sebas3\obj\Debug\net7.0-windows\sebas3.AssemblyInfoInputs.cache
+D:\Proyectos C#\sebas3\obj\Debug\net7.0-windows\sebas3.AssemblyInfo.cs
+D:\Proyectos C#\sebas3\obj\Debug\net7.0-windows\sebas3.csproj.CoreCompileInputs.cache
+D:\Proyectos C#\sebas3\bin\Debug\net7.0-windows\sebas3.exe
+D:\Proyectos C#\sebas3\bin\Debug\net7.0-windows\sebas3.deps.json
+D:\Proyectos C#\sebas3\bin\Debug\net7.0-windows\sebas3.runtimeconfig.json
+D:\Proyectos C#\sebas3\bin\Debug\net7.0-windows\sebas3.dll
+D:\Proyectos C#\sebas3\bin\Debug\net7.0-windows\sebas3.pdb
+D:\Proyectos C#\sebas3\obj\Debug\net7.0-windows\sebas3.dll
+D:\Proyectos C#\sebas3\obj\Debug\net7.0-windows\refint\sebas3.dll
+D:\Proyectos C#\sebas3\obj\Debug\net7.0-windows\sebas3.pdb
+D:\Proyectos C#\sebas3\obj\Debug\net7.0-windows\sebas3.genruntimeconfig.cache
+D:\Proyectos C#\sebas3\obj\Debug\net7.0-windows\ref\sebas3.dll
+D:\Proyectos C#\sebas3\obj\Debug\net7.0-windows\sebas3.Properties.Resources.resources
+E:\C#\sebas3\sebas3\bin\Debug\net7.0-windows\sebas3.exe
+E:\C#\sebas3\sebas3\bin\Debug\net7.0-windows\sebas3.deps.json
+E:\C#\sebas3\sebas3\bin\Debug\net7.0-windows\sebas3.runtimeconfig.json
+E:\C#\sebas3\sebas3\bin\Debug\net7.0-windows\sebas3.dll
+E:\C#\sebas3\sebas3\bin\Debug\net7.0-windows\sebas3.pdb
+E:\C#\sebas3\sebas3\obj\Debug\net7.0-windows\sebas3.Form1.resources
+E:\C#\sebas3\sebas3\obj\Debug\net7.0-windows\sebas3.Properties.Resources.resources
+E:\C#\sebas3\sebas3\obj\Debug\net7.0-windows\sebas3.csproj.GenerateResource.cache
+E:\C#\sebas3\sebas3\obj\Debug\net7.0-windows\sebas3.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\sebas3\sebas3\obj\Debug\net7.0-windows\sebas3.AssemblyInfoInputs.cache
+E:\C#\sebas3\sebas3\obj\Debug\net7.0-windows\sebas3.AssemblyInfo.cs
+E:\C#\sebas3\sebas3\obj\Debug\net7.0-windows\sebas3.csproj.CoreCompileInputs.cache
+E:\C#\sebas3\sebas3\obj\Debug\net7.0-windows\sebas3.dll
+E:\C#\sebas3\sebas3\obj\Debug\net7.0-windows\refint\sebas3.dll
+E:\C#\sebas3\sebas3\obj\Debug\net7.0-windows\sebas3.pdb
+E:\C#\sebas3\sebas3\obj\Debug\net7.0-windows\sebas3.genruntimeconfig.cache
+E:\C#\sebas3\sebas3\obj\Debug\net7.0-windows\ref\sebas3.dll
+E:\C#\controlAreaVolumen\bin\Debug\net7.0-windows\sebas3.exe
+E:\C#\controlAreaVolumen\bin\Debug\net7.0-windows\sebas3.deps.json
+E:\C#\controlAreaVolumen\bin\Debug\net7.0-windows\sebas3.runtimeconfig.json
+E:\C#\controlAreaVolumen\bin\Debug\net7.0-windows\sebas3.dll
+E:\C#\controlAreaVolumen\bin\Debug\net7.0-windows\sebas3.pdb
+E:\C#\controlAreaVolumen\obj\Debug\net7.0-windows\sebas3.frmRollo.resources
+E:\C#\controlAreaVolumen\obj\Debug\net7.0-windows\sebas3.Properties.Resources.resources
+E:\C#\controlAreaVolumen\obj\Debug\net7.0-windows\sebas3.csproj.GenerateResource.cache
+E:\C#\controlAreaVolumen\obj\Debug\net7.0-windows\sebas3.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\controlAreaVolumen\obj\Debug\net7.0-windows\sebas3.AssemblyInfoInputs.cache
+E:\C#\controlAreaVolumen\obj\Debug\net7.0-windows\sebas3.AssemblyInfo.cs
+E:\C#\controlAreaVolumen\obj\Debug\net7.0-windows\sebas3.csproj.CoreCompileInputs.cache
+E:\C#\controlAreaVolumen\obj\Debug\net7.0-windows\sebas3.dll
+E:\C#\controlAreaVolumen\obj\Debug\net7.0-windows\refint\sebas3.dll
+E:\C#\controlAreaVolumen\obj\Debug\net7.0-windows\sebas3.pdb
+E:\C#\controlAreaVolumen\obj\Debug\net7.0-windows\sebas3.genruntimeconfig.cache
+E:\C#\controlAreaVolumen\obj\Debug\net7.0-windows\ref\sebas3.dll
